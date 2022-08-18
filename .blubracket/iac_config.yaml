@@ -1,0 +1,13 @@
+ignore_policies:
+  - BB_AWS_NETWORKING_14
+  - BB_AWS_LOGGING_18
+
+policies:
+  - BB_AWS_NETWORKING_14
+
+tool_types:
+  - CLOUDFORMATION
+  - TERRAFORM
+
+ignore_tool_types:
+  - CLOUDFORMATION
