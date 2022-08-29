@@ -1,9 +1,9 @@
 ignore_policies:
   - BB_AWS_NETWORKING_14
-  - BB_AWS_LOGGING_18
 
 policies:
   - BB_AWS_NETWORKING_14
+  - BB_AWS_LOGGING_18
 
 tool_types:
   - CLOUDFORMATION
